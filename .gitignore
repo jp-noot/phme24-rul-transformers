@@ -1,0 +1,23 @@
+# Cache Python et environnements virtuels
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Données brutes et prétraitées NASA C-MAPSS
+CMAPSS/
+*.txt
+*.csv
+
+# Poids des modèles, checkpoints et résultats de test
+model_checkpoint/
+results/
+*.pkl
+*.pt
+*.pth
+
+# Fichiers temporaires Jupyter & OS
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
