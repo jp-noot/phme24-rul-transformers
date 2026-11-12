@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Award](https://img.shields.io/badge/PHME%202024-Best%20Paper%20Award-gold)](#publications--citations)
 
-Official PyTorch implementation of **DAST-OR** (Ordinally-supervised Dual-Attention Sequence Transformer) for Remaining Useful Life (RUL) estimation on the NASA C-MAPSS dataset under data censoring conditions.
+Official PyTorch implementation of **DAST-OR** (Dual Aspect Self-Attention based on Transformer utilizing Ordinal Regression) for Remaining Useful Life (RUL) estimation on the NASA C-MAPSS dataset under data (right)-censoring conditions.
 
 This repository accompanies our award-winning work presented at **PHME 2024** (https://papers.phmsociety.org/index.php/phme/article/view/3974) and expanded in **IJPHM** (https://papers.phmsociety.org/index.php/ijphm/article/view/4260).
 
