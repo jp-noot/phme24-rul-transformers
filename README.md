@@ -12,7 +12,7 @@ This repository accompanies our award-winning work presented at **PHME 2024** (h
 
 ## 💡 Key Contributions & Architecture
 
-- **`DAST_OR` (Core Contribution):** A novel Dual Aspect Self-Attention based on Transformer architecture utilizing **Ordinal Regression (OR)** to handle data censoring. Predicts cumulative failure probabilities across discrete temporal horizons ( $\text{target}_{10}$ à $\text{target}_{130}$ ) with a sigmoid-bounded output and masked Loss computation.
+- **`DAST_OR` (Core Contribution):** A novel Dual Aspect Self-Attention based on Transformer architecture utilizing **Ordinal Regression (OR)** to handle data censoring. Predicts cumulative failure probabilities across discrete temporal horizons ($`\text{target}_{10}`$ à $`\text{target}_{130}`$) with a sigmoid-bounded output and masked Loss computation.
 - **`DAST` (Refactored Baseline):** A clean, bug-fixed PyTorch implementation of the standard baseline Dual Aspect Self-Attention based on Transformer, featuring proper `nn.ModuleList` submodules, optimized tensor operations, and CPU/GPU memory efficiency.
 
 ---
