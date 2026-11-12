@@ -83,11 +83,11 @@ python train.py --epochs 30 --batch_size 128 --dim_model 32 --n_heads 2 --exp_id
 If you use this codebase or model architecture in your research, please cite our papers:
 
 ### PHM Society European Conference 2024 (Best Paper Award)
-> **Title:** *Dual-Attention Sequence Transformers for Remaining Useful Life Estimation Under Data Censoring*  
-> **Conference:** 7th European Conference of the PHM Society (PHME 2024)
+> **Title:** *LSTM and Transformers based methods for Remaining Useful Life Prediction considering Censored Data *  
+> **Conference:** 8th European Conference of the PHM Society (PHME 2024)
 
-### International Journal of Prognostics and Health Management (IJPHM)
-> **Title:** *Ordinal Dual-Attention Transformers for Complex Degradation Prognostics*  
+### International Journal of Prognostics and Health Management (IJPHM) -> Extended version of the previous article 
+> **Title:** *LSTM and Transformers based methods for Remaining Useful Life Prediction considering Censored Data *  
 > **Journal:** International Journal of Prognostics and Health Management (IJPHM)
 
 ---
