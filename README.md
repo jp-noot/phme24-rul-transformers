@@ -1,4 +1,4 @@
-# PHME 2024 — Dual-Attention Transformers for RUL Estimation under Data Censoring (`DAST-OR`)
+# PHME 2024, Dual-Attention Transformers for RUL Estimation under Data Censoring (`DAST-OR`)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
