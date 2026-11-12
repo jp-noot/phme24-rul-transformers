@@ -12,8 +12,8 @@ This repository accompanies our award-winning work presented at **PHME 2024** (h
 
 ## 💡 Key Contributions & Architecture
 
-- **`DAST_OR` (Core Contribution):** A novel Dual-Attention Transformer architecture utilizing **Ordinal Regression (OR)** to handle data censoring. Predicts cumulative failure probabilities across discrete temporal horizons ($\text{target}_{10}$ to $\text{target}_{130}$) with a sigmoid-bounded output and masked Loss computation.
-- **`DAST` (Refactored Baseline):** A clean, bug-fixed PyTorch implementation of the standard baseline Dual-Attention Transformer, featuring proper `nn.ModuleList` submodules, optimized tensor operations, and CPU/GPU memory efficiency.
+- **`DAST_OR` (Core Contribution):** A novel Dual Aspect Self-Attention based on Transformer architecture utilizing **Ordinal Regression (OR)** to handle data censoring. Predicts cumulative failure probabilities across discrete temporal horizons ($\text{target}_{10}$ to $\text{target}_{130}$) with a sigmoid-bounded output and masked Loss computation.
+- **`DAST` (Refactored Baseline):** A clean, bug-fixed PyTorch implementation of the standard baseline Dual Aspect Self-Attention based on Transformer, featuring proper `nn.ModuleList` submodules, optimized tensor operations, and CPU/GPU memory efficiency.
 
 ---
 
@@ -86,7 +86,7 @@ If you use this codebase or model architecture in your research, please cite our
 > **Title:** *LSTM and Transformers based methods for Remaining Useful Life Prediction considering Censored Data *  
 > **Conference:** 8th European Conference of the PHM Society (PHME 2024)
 
-### International Journal of Prognostics and Health Management (IJPHM) -> Extended version of the previous article 
+### International Journal of Prognostics and Health Management (IJPHM) &rarr Extended version of the previous article 
 > **Title:** *LSTM and Transformers based methods for Remaining Useful Life Prediction considering Censored Data *  
 > **Journal:** International Journal of Prognostics and Health Management (IJPHM)
 
